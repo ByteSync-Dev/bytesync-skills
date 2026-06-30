@@ -1,0 +1,11 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "bytesync",
+  "description": "Bytesync discovery and qualification toolkit for Claude. Provides the bytesync-analysis skill — a guided interview that assesses whether there's potential for a Bytesync engagement across cloud, data centre, AI, automation, core business systems, and development services.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Bytesync"
+  },
+  "homepage": "https://github.com/ByteSync-Dev/bytesync-skills",
+  "license": "UNLICENSED"
+}
